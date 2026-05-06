@@ -22,14 +22,14 @@
 const animesh = {
     location: "Mumbai, India 🇮🇳",
     education: "B.Tech CS @ SAKEC (2024-2028)",
-    currentFocus: ["Full-Stack Development", "Linux Internals", "AI Systems"],
+    currentFocus: ["Full-Stack Development", "AI Systems"],
     goals2025: ["Build 5 production apps", "Contribute to open source", "Master system design"],
     funFact: "Built my own Linux distribution from scratch 🐧"
 };
 ```
 
 - 🔭 Currently working on **AI-powered web applications** and **system-level programming**
-- 🌱 Learning **Linux kernel internals**, **cybersecurity**, and **advanced AI architectures**
+- 🌱 Learning **Linux kernel internals** and **advanced AI architectures**
 - 💼 Open to **internships** in Full-Stack, Frontend, or AI Engineering
 - 🎯 Passionate about building technology that **solves real-world problems**
 - ⚡ Fun fact: I use **Linux as my daily driver** and experiment with different distros

@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Animesh Sharma
 
-### Front-End Developer | Linux Enthusiast | AI Engineering
+### Software Developer | Linux Enthusiast | AI Engineering
 
 *Building impactful tech solutions from web apps to custom operating systems*
 

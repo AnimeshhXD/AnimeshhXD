@@ -201,7 +201,6 @@ Zerodha Kite clone with real-time data
 ```python
 current_focus = [
     "🐧 Linux kernel programming & OS internals",
-    "🔒 Cybersecurity & penetration testing",
     "🤖 Advanced AI agent architectures",
     "🎯 System design & scalability patterns",
     "📦 Kubernetes & container orchestration"

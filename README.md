@@ -1,255 +1,214 @@
-<div align="center">
+<!-- HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:111827&height=200&section=header&text=Animesh%20Sharma&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Java%20SDE%20%E2%80%94%20Full%20Stack%20%2B%20AI%20Systems&descAlignY=75&descSize=14&descColor=888888" width="100%" />
+</p>
 
-# 👋 Hi, I'm Animesh Sharma
-
-### Software Developer | Linux Enthusiast | AI Engineering
-
-*Building impactful tech solutions from web apps to custom operating systems*
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge)](https://portfolio-animw.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/animesh-animw)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animesh.sharma24@sakec.ac.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnimeshhXD&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const animesh = {
-    location: "Mumbai, India 🇮🇳",
-    education: "B.Tech CS @ SAKEC (2024-2028)",
-    currentFocus: ["Full-Stack Development", "AI Systems"],
-    goals2025: ["Build 5 production apps", "Contribute to open source", "Master system design"],
-    funFact: "Built my own Linux distribution from scratch 🐧"
-};
-```
-
-- 🔭 Currently working on **AI-powered web applications** and **system-level programming**
-- 🌱 Learning **Linux kernel internals** and **advanced AI architectures**
-- 💼 Open to **internships** in Full-Stack, Frontend, or AI Engineering
-- 🎯 Passionate about building technology that **solves real-world problems**
-- ⚡ Fun fact: I use **Linux as my daily driver** and experiment with different distros
+<p align="center">
+  <a href="mailto:animesh.sharma554@gmail.com"><img src="https://img.shields.io/badge/Email-animesh.sharma554-0a0a0a?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/animesh-animw"><img src="https://img.shields.io/badge/LinkedIn-animesh--animw-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="http://portfolio-animesh-sharma-sde.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-animesh--sde-0a0a0a?style=flat-square&logo=netlify&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AnimeshhXD&style=flat-square&color=0a0a0a&label=Profile+Views" />
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## `$ whoami`
 
-<table>
-<tr>
-<td width="50%">
+```yaml
+role:       Java SDE  ·  Full Stack Engineer  ·  AI Systems Builder
+location:   Mumbai, India
+education:  SAKEC — B.Tech CSE + Honors in AI & Data Science (2028)
+gpa:        9.07 / 10
 
-### 🌉 [BenefitBridge](https://github.com/AnimeshhXD/BenefitBridgeV2)
-**Government Welfare Platform**
+currently_building:
+  - Java + Spring Boot backend systems (in progress)
+  - Multi-agent AI pipelines with deterministic guarantees
+  - Full stack apps  →  React · TypeScript · FastAPI · Django
+  - High-performance APIs with sub-100ms response times
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-
-Full-stack platform connecting 1000+ citizens to welfare schemes
-
-- ✨ AI-powered eligibility matching
-- 🎨 3D animations with Three.js
-- 🔐 JWT authentication & role-based access
-- 📊 Real-time analytics dashboard
-
-**[🔗 Live Demo](https://benefitbridge-frontend.onrender.com)**
-
-</td>
-<td width="50%">
-
-### 🤖 [Personal Health Coach](https://github.com/AnimeshhXD/Personal-Health-Coach)
-**Agentic AI System**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Agents-orange?style=flat)
-
-Production-grade AI for HPE GenAI hackathon
-
-- 🏗️ Multi-agent architecture
-- 📊 94% data compression
-- 💰 Budget-aware behavior modes
-- 🔄 Automatic fallback system
-- 📝 Explainable AI decisions
-
-**[📂 View Code](https://github.com/AnimeshhXD/Personal-Health-Coach)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐧 [Mavira OS](https://lnkd.in/dzwWJ2hc)
-**Custom Linux Distribution**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian)
-
-Built from scratch using Debian live-build
-
-- 🖥️ XFCE desktop with custom branding
-- 🔒 AppArmor + Fail2Ban hardening
-- 💿 Bootable ISO with installer
-- 🛠️ Custom system tools
-- 🔧 Deep Linux internals knowledge
-
-**[💾 Download ISO](https://lnkd.in/dzwWJ2hc)**
-
-</td>
-<td width="50%">
-
-### 📈 Blink - Trading Interface
-**Stock Market Dashboard**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs)
-
-Zerodha Kite clone with real-time data
-
-- 📊 Interactive charts with Chart.js
-- 💹 Live stock prices & analytics
-- 📱 Responsive dashboard
-- 🎨 Professional trading UI
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Systems & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-
-### Tools & AI
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnimeshhXD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshhXD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnimeshhXD&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnimeshhXD&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **B.Tech in Computer Science** - Shah and Anchor Kutchhi Engineering College (2024-2028)
-
-📜 **Certifications:**
-- Python Full Stack & Web Development - EduSkills Academy
-- Deloitte Australia - Technology Job Simulation
-
----
-
-## 🌱 Currently Learning
-
-```python
-current_focus = [
-    "🐧 Linux kernel programming & OS internals",
-    "🤖 Advanced AI agent architectures",
-    "🎯 System design & scalability patterns",
-    "📦 Kubernetes & container orchestration"
-]
+principles:
+  - systems > scripts
+  - determinism > randomness
+  - design for failure before success
+  - optimize before you ship
 ```
 
 ---
 
-## 💡 What Drives Me
+## System Status
 
-> *"The best way to predict the future is to build it."*
-
-I'm passionate about:
-- 🌍 **Impact** - Building tech that solves real problems (poverty, healthcare)
-- 🔧 **Depth** - Understanding systems from the ground up (built my own OS!)
-- 💰 **Efficiency** - Cost-aware, production-ready solutions
-- 🎨 **UX** - Beautiful, intuitive interfaces that delight users
-
----
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to:
-- 💼 **Internship opportunities** in Full-Stack, Frontend, or AI Engineering
-- 🤝 **Collaborative projects** that push technical boundaries
-- 💬 **Tech discussions** about React, Linux, AI, or system design
-- 🚀 **Freelance opportunities** for web development or AI integration
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/animesh-animw)
-[![Email](https://img.shields.io/badge/Email-animesh.sharma24@sakec.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animesh.sharma24@sakec.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge)](https://portfolio-animw.netlify.app/)
-[![Phone](https://img.shields.io/badge/Phone-+91_9167988752-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919167988752)
-
-</div>
+```
+Java Backend         ██████████  ONLINE          (Core + Spring Boot in progress)
+Full Stack Apps      ██████████  DEPLOYED         5 production apps shipped
+AI Agent Pipelines   ██████████  ACTIVE           multi-agent · RAG · LLM hybrid
+Database Layer       ██████████  OPTIMIZED        <100ms queries, indexed schemas
+API Response Time    ████████░░  <500ms           310ms peak inference pipeline
+CI/CD Pipelines      ██████████  RUNNING          GitHub Actions · Docker · Render
+```
 
 ---
 
-<div align="center">
+## Featured Systems
 
-### 💭 *"Building the future, one commit at a time"*
+<details>
+<summary><b>🧠 LawLens-X</b> — AI Contract Risk Intelligence Engine</summary>
 
-**⭐ Star my repositories if you find them helpful!**
+<br>
 
-![Snake animation](https://raw.githubusercontent.com/AnimeshhXD/AnimeshhXD/output/github-contribution-grid-snake-dark.svg)
+Multi-agent legal reasoning system that converts raw contracts into structured risk assessments with explainable AI output.
+
+**Architecture:** 5-stage agent pipeline — `ClauseParser → RiskAnalyzer → RiskScorer → ScenarioSimulator → NegotiationAdvisor`
+
+| Component     | Detail                                          |
+|---------------|-------------------------------------------------|
+| Stack         | FastAPI · React · TypeScript · Ollama · ChromaDB |
+| Transport     | Real-time SSE streaming architecture             |
+| Reasoning     | Deterministic rule-based + LLM hybrid (75–85% accuracy) |
+| Reliability   | JSON recovery · retry logic · timeout fallbacks  |
+
+</details>
 
 ---
 
-**Made with ❤️ and lots of ☕**
+<details>
+<summary><b>🏥 Triage Assistant</b> — Medical AI System</summary>
+
+<br>
+
+Semantic emergency triage engine with a full RAG pipeline and sub-500ms inference. Built for precision under pressure.
+
+| Metric                  | Value                          |
+|-------------------------|--------------------------------|
+| Total inference latency | **310ms**                      |
+| Protocol match accuracy | **99%**                        |
+| Retrieval method        | ChromaDB + sentence-transformers |
+| Stack                   | FastAPI · React · Python        |
+
+[→ github.com/AnimeshhXD/triage-assistant](https://github.com/AnimeshhXD/triage-assistant)
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Workplace Operations Agent</b> — Deterministic Multi-Task AI Environment</summary>
+
+<br>
+
+OpenEnv-compatible AI evaluation environment for workplace task orchestration across email, Slack, and calendar.
+
+| Component        | Detail                                               |
+|------------------|------------------------------------------------------|
+| Grading system   | Deterministic scoring with reproducible oracle scores |
+| Difficulty tiers | 3 levels — classification → conflict → coordinated IR |
+| Reward design    | Dense shaping with partial credits + ordering penalties |
+| Stack            | FastAPI · Docker · WebSocket · Python                 |
+
+[→ github.com/AnimeshhXD/workplace-ops-agent](https://github.com/AnimeshhXD/workplace-ops-agent)
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 BenefitBridge</b> — Government Welfare Discovery Platform</summary>
+
+<br>
+
+Full-stack platform matching 1,000+ users to government welfare schemes with secure role-based access and fast eligibility scoring.
+
+| Component     | Detail                                     |
+|---------------|--------------------------------------------|
+| Auth          | JWT + RBAC                                 |
+| Query speed   | **<100ms** (indexed PostgreSQL)            |
+| Stack         | React · Django · PostgreSQL · Redis        |
+| DevOps        | CI/CD via GitHub Actions · Deployed Render |
+
+[→ github.com/AnimeshhXD/BenefitBridgeV2](https://github.com/AnimeshhXD/BenefitBridgeV2)
+
+</details>
+
+---
+
+<details>
+<summary><b>🐧 Mavira OS</b> — Custom Linux Distribution</summary>
+
+<br>
+
+Debian-based Linux distro engineered from the ground up — hardened kernel, security-first design, bootable ISO output.
+
+| Feature              | Detail                        |
+|----------------------|-------------------------------|
+| Base                 | Debian + custom kernel config |
+| Desktop              | XFCE from scratch             |
+| Security             | AppArmor mandatory access control |
+| Intrusion prevention | Fail2Ban                      |
+
+[→ animeshhxd.github.io/Mavira](https://animeshhxd.github.io/Mavira/)
+
+</details>
+
+---
+
+## Tech Stack
+
+| Layer            | Technologies                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| **Java / Backend** | Java (Core) · Spring Boot *(in progress)* · FastAPI · Django REST · REST API · JWT · RBAC · WebSockets |
+| **Frontend**     | React · TypeScript · Tailwind CSS · HTML5 · CSS3                             |
+| **Databases**    | PostgreSQL · Redis · ChromaDB · Vector Search · Query Optimization           |
+| **AI / LLM**     | RAG Pipelines · Multi-Agent Systems · Ollama · sentence-transformers · Embeddings |
+| **Languages**    | Java · Python · TypeScript · JavaScript · SQL · C                           |
+| **DevOps**       | Docker · GitHub Actions · CI/CD · Linux · Git · Hugging Face Spaces          |
+
+---
+
+## Engineering by the Numbers
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnimeshhXD&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&hide_border=false&count_private=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshhXD&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&hide_border=false" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnimeshhXD&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="150" />
+</p>
+
+---
+
+## Current Focus
+
+```
+→  Java Ecosystem        Core Java · JVM internals · Collections · Spring Boot
+→  System Design         scalability · CAP theorem · distributed patterns
+→  Full Stack            React · TypeScript · REST · real-time WebSockets
+→  LLM Reliability       deterministic hybrid design · agent orchestration
+→  Linux Internals       kernel · system calls · OS architecture
+→  Backend Performance   latency profiling · memory opt · query tuning
+```
+
+---
+
+## Hackathons
+
+```
+▸  Meta Scaler School      →  Workplace Operations Agent
+▸  HPE Intel Hackathon     →  Personal Health Coach · Triage Assistant
+▸  Smart India Hackathon   →  SIH 2025–26
+▸  Meta IoT Hackathon      →  IoT Domain
+▸  ByteCamp                →  Competitive Track
+```
+
+---
+
+<p align="center">
+  <i>"I don't build features. I build systems that run features."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0a0a0a&height=100&section=footer" width="100%" />
+</p>
